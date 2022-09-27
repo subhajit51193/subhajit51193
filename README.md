@@ -20,17 +20,16 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 <a href="https://extraordinary-bunny-1545e0.netlify.app/">
-         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/meanbuy.jpg"
-         width=256">
+         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/ecommerce+marketing+strategy.gif" width="256">
          </a>
-<h5> Tech Stack Used: HTML,CSS</h5>
+<h5> Tech Stack Used: HTML,CSS, JavaScript</h5>
                  
                    
 <a href="https://incomparable-kashata-7aae74.netlify.app/">
          <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/giphyyoutube.webp"
-         width=256">
+         width="256">
          </a>
-<h5> Tech Stack Used: HTML,CSS</h5>    
+<h5> Tech Stack Used: HTML,CSS,JavaScript</h5>    
 
 
 ## 🌐 Socials:
