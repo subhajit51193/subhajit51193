@@ -13,7 +13,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-<br><br><br>🌱 I’m currently learning My SQL<br>💬 Ask me about Core JAVA, SQL<br>⚡ Aliens built Pyramids.
+<br><br><br>🌱 I’m currently learning : MySQL<br>💬 Ask me about : Core JAVA , SQL, JavaScript<br>⚡ Fun fact : Aliens built Pyramids
 
 
 ## 🌐 Socials:
