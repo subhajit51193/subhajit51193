@@ -15,6 +15,19 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <br><br><br>🌱 I’m currently learning : MySQL<br>💬 Ask me about : Core JAVA , SQL, JavaScript<br>⚡ Fun fact : Aliens built Pyramids
 
+<h2>Examples of My Projects</h2>
+
+<a href="https://extraordinary-bunny-1545e0.netlify.app/">
+         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/meanbuy.jpg"
+         width=256">
+         </a>
+<h5> Tech Stack Used: HTML,CSS</h5>  
+<a href="https://extraordinary-bunny-1545e0.netlify.app/">
+         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/meanbuy.jpg"
+         width=256">
+         </a>
+<h5> Tech Stack Used: HTML,CSS</h5>    
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhajit.saha.7902564/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhajit.saha51/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-saha-103110185/) 
