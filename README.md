@@ -29,7 +29,14 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
          <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/giphyyoutube.webp"
          width="256">
          </a>
-<h5> Tech Stack Used: HTML,CSS,JavaScript</h5>    
+<h5> Tech Stack Used: HTML,CSS,JavaScript</h5>  
+
+
+<a href="https://ornate-pegasus-cb01a7.netlify.app/">
+         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/weathergifs.gif"
+         width="256">
+         </a>
+<h5> Tech Stack Used: HTML,CSS,JavaScript</h5>  
 
 
 ## 🌐 Socials:
