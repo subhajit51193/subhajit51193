@@ -19,7 +19,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
  <table>
   <tr>
     <td>Visitors</td>
-    <td><a align= "center" href="https://github.com/itsme-subid"><img draggable="false" src="https://profile-counter.glitch.me/subhajit51193/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
+    <td><a align= "center" href="https://github.com/subhajit51193"><img draggable="false" src="https://profile-counter.glitch.me/subhajit51193/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
   </tr>
 </table>
 
