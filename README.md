@@ -13,7 +13,15 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-<br><br><br>🌱 I’m currently learning : MySQL<br>💬 Ask me about : Core JAVA , SQL, JavaScript<br>⚡ Fun fact : Aliens built Pyramids
+<br><br><br>🌱 I’m currently learning : MySQL<br>💬 Ask me about : Core JAVA , SQL, JavaScript<br>⚡ Fun fact : Aliens built Pyramids<br>
+ 📫 How to reach me [nnorth87@gmail.com](mailto:nnorth87@gmail.com).
+ 
+ <table>
+  <tr>
+    <td>Visitors</td>
+    <td><a align= "center" href="https://github.com/itsme-subid"><img draggable="false" src="https://profile-counter.glitch.me/subhajit51193/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
+  </tr>
+</table>
 
 <h2>Examples of My Projects</h2>
 
