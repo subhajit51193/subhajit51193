@@ -23,7 +23,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   </tr>
 </table>
 
-<h2>Examples of My Projects</h2>
+<h2>Examples of My Front-End Projects</h2>
 
 
 
@@ -44,7 +44,15 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
          <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/weathergifs.gif"
          width="256">
          </a>
-<h5> Tech Stack Used: HTML,CSS,JavaScript</h5>  
+<h5> Tech Stack Used: HTML,CSS,JavaScript</h5> 
+
+<h2>Examples of My Back-End Projects</h2>
+
+<a href="https://github.com/subhajit51193/brainy-thread-7805">
+         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/student-mgmt.gif" width="256">
+         </a>
+<h5> Note:  There is no delployment link as such hence it will redirect to Github location</h5>
+<h5> Tech Stack Used: Java, SQL</h5>
 
 
 ## 🌐 Socials:
