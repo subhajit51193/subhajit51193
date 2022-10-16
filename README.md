@@ -15,7 +15,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-<br><br><br>🌱 I’m currently learning : Maven<br>💬 Ask me about : Core JAVA , SQL, JavaScript<br>⚡ Fun fact : Aliens built Pyramids<br>
+<br><br><br>🌱 I’m currently learning : Springboot<br>💬 Ask me about : Core JAVA , SQL, JavaScript<br>⚡ Fun fact : Aliens built Pyramids<br>
  📫 How to reach me [nnorth87@gmail.com](mailto:nnorth87@gmail.com).
  
  <table>
