@@ -53,7 +53,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <a href="https://github.com/subhajit51193/brainy-thread-7805">
          <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/student-mgmt.gif" width="256">
          </a>
-<h5> Note:  It is console based application</h5>
+<h5> Note:  It is a console based application</h5>
 <h5> Tech Stack Used: Java, SQL</h5>
 
 
