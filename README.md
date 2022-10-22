@@ -24,7 +24,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
     <td><a align= "center" href="https://github.com/subhajit51193"><img draggable="false" src="https://profile-counter.glitch.me/subhajit51193/count.svg" alt="Visitor Count" height="30" width="224" /></a></td>
   </tr>
 </table>
-
+<br/>
 <h2>Examples of My Front-End Projects</h2>
 
 
@@ -48,6 +48,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
          </a>
 <h5> Tech Stack Used: HTML,CSS,JavaScript</h5> 
 
+<br/>
 <h2>Examples of My Back-End Projects</h2>
 
 <a href="https://github.com/subhajit51193/brainy-thread-7805">
@@ -55,10 +56,20 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
          </a>
 <h5> Note:  It is a console based application</h5>
 <h5> Tech Stack Used: Java, SQL</h5>
+<br/>
+
+## 🌐 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhajit-saha-103110185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhajit-saha-103110185/" height="30" width="40" /></a>
+<a href="https://fb.com/subhajit.saha.7902564/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhajit.saha.7902564/" height="30" width="40" /></a>
+<a href="https://instagram.com/subhajit.saha51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhajit.saha51" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nnorth87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nnorth87" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nnorth87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nnorth87/" height="30" width="40" /></a>
+</p>
+<br/>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhajit.saha.7902564/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhajit.saha51/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-saha-103110185/) 
 
 # 💻 Tech Stack:
 
@@ -126,13 +137,13 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>HTML</strong></span><br><br><br>
+        <span><strong>Node JS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
   </tbody>
 </table>
-
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit51193&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit51193" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajit51193" alt="subhajit51193" /></a> </p>
@@ -165,7 +176,14 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Last Edited on 21-10-2022 14.02PM
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time;Have+a+good+one...👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+
+
 
 ---
 
