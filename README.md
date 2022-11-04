@@ -140,6 +140,10 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
         <span><strong>Node JS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>Postman</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
+      </td>
     </tr>
   </tbody>
 </table>
