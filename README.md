@@ -153,13 +153,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajit51193" alt="subhajit51193" /></a> </p>
 
 
-<br>
-<h2 align="center">📊 Leetcode Statistics<h2>
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/nnorth87?ext=activity" />
-<br />
 
-<br>
 
 <h2 align="center">📊 My Github Stats</h2>
 <div>
