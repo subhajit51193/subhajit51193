@@ -6,6 +6,7 @@
 
 
 <h3 align="center">A passionate Java Back-End developer from India</h3>
+<h3 align="center">I have just completed an Intensive "Full Stack Java Development" course. Looking forward to applying my knowledge and skill for continuous improvement</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me
@@ -15,8 +16,18 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-<br><br><br>🌱 I’m currently learning : AWS<br>💬 Ask me about : Core JAVA , SQL, Spring<br>⚡ Fun fact : Sometimes I surprise even myself<br>
- 📫 How to reach me [nnorth87@gmail.com](mailto:nnorth87@gmail.com).
+- 🌱 I’m currently learning **AWS**
+
+
+- 👨‍💻 All of my projects are available at [https://subhajit51193.github.io/](https://subhajit51193.github.io/)
+
+- 💬 Ask me about **Java, MySQL, SpringBoot**
+
+- 📫 How to reach me **nnorth87@gmail.com**
+
+
+
+- ⚡ Fun fact **I always end up surprising myself**
  
  <table>
   <tr>
