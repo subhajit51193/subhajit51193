@@ -21,7 +21,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 👨‍💻 All of my projects are available at [https://subhajit51193.github.io/](https://subhajit51193.github.io/)
 
-- 💬 Ask me about **Java, MySQL, SpringBoot**
+- 💬 Ask me about **Java, MySQL, SpringBoot, SpringMVC**
 
 - 📫 How to reach me **nnorth87@gmail.com**
 
