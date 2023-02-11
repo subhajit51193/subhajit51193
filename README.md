@@ -73,6 +73,13 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
          </a>
 <h5> Note:  A payment wallet application, which is having various functions like sending and receving money, pay different types of bills after transferring money to wallet from bank, view transaction details and much more. It is a backend project to generate various APIs and test via swagger or postman.</h5>
 <h5> Tech Stack Used: Java, SQL, SpringBoot, Swagger</h5>
+
+
+<a href="https://github.com/subhajit51193/EcommerceApp">
+         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/giphy.gif" width="256">
+         </a>
+<h5> Note: Created an ECommerce app endpoints. Users can login,signin and check any products and puchase it with wallet money. Users can check order history afterwards aswell</h5>
+<h5> Tech Stack Used: Java, SQL, SpringBoot</h5>
 <br/>
 
 ## 🌐 Connect with me:
