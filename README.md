@@ -16,7 +16,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-- 🌱 I’m currently learning **about Sellenium**
+- 🌱 I’m currently learning **about Oauth2**
 
 
 - 👨‍💻 All of my projects are available at [https://subhajit51193.github.io/](https://subhajit51193.github.io/)
