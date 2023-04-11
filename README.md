@@ -36,51 +36,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   </tr>
 </table>
 <br/>
-<h2>Examples of My Front-End Projects</h2>
-
-
-
-<a href="https://extraordinary-bunny-1545e0.netlify.app/">
-         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/ecommerce+marketing+strategy.gif" width="256">
-         </a>
-<h5> Tech Stack Used: HTML,CSS, JavaScript</h5>
-                 
-                   
-<a href="https://incomparable-kashata-7aae74.netlify.app/">
-         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/giphyyoutube.webp"
-         width="256">
-         </a>
-<h5> Tech Stack Used: HTML,CSS,JavaScript,FetchAPI</h5>  
-
-
-<a href="https://ornate-pegasus-cb01a7.netlify.app/">
-         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/weathergifs.gif"
-         width="256">
-         </a>
-<h5> Tech Stack Used: HTML,CSS,JavaScript</h5> 
-
-<br/>
-<h2>Examples of My Back-End Projects</h2>
-
-<a href="https://github.com/subhajit51193/brainy-thread-7805">
-         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/student-mgmt.gif" width="256">
-         </a>
-<h5> Note:  It is a console based application</h5>
-<h5> Tech Stack Used: Java, SQL</h5>
-
-<a href="https://github.com/subhajit51193/FlashPay">
-         <img alt="Qries" src="https://github.com/subhajit51193/FlashPay/blob/main/mobile_wallet.gif" width="256">
-         </a>
-<h5> Note:  A payment wallet application, which is having various functions like sending and receving money, pay different types of bills after transferring money to wallet from bank, view transaction details and much more. It is a backend project to generate various APIs and test via swagger or postman.</h5>
-<h5> Tech Stack Used: Java, SQL, SpringBoot, Swagger</h5>
-
-
-<a href="https://github.com/subhajit51193/EcommerceApp">
-         <img alt="Qries" src="https://github.com/subhajit51193/subhajit51193/blob/main/giphy.gif" width="256">
-         </a>
-<h5> Note: Created an ECommerce app endpoints. Users can login,signin and check any products and puchase it with wallet money. Users can check order history afterwards aswell</h5>
-<h5> Tech Stack Used: Java, SQL, SpringBoot</h5>
-<br/>
 
 ## 🌐 Connect with me:
 
