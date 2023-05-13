@@ -16,7 +16,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-- 🌱 I’m currently working on **individual projects**
+- 🌱 I’m currently larning about **Microservices**
 
 
 - 👨‍💻 All of my projects are available at [https://subhajit51193.github.io/](https://subhajit51193.github.io/)
