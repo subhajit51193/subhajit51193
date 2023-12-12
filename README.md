@@ -16,12 +16,12 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
-- 🌱 I’m currently **learning about React**
+- 🌱 I’m currently **learning about AWS**
 
 
 - 👨‍💻 All of my projects are available at [https://subhajit51193.github.io/](https://subhajit51193.github.io/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, SpringBoot**
 
 - 📫 How to reach me **nnorth87@gmail.com**
 
