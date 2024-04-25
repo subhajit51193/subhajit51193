@@ -149,6 +149,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </br>
 
 <div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit51193&show_icons=true&locale=en&layout=compact" alt="subhajit51193" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit51193&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Koti" height="275px" width="30%"/>
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=subhajit51193&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
 </div>
